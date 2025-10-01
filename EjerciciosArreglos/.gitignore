@@ -1,0 +1,48 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IDE specific files
+.idea/
+.classpath
+.project
+.settings/
+bin/
+*.iml
+*.ipr
+*.iws
+*.prefs
+*.sublime-workspace
+*.sublime-project
+
+# Build directory
+target/
+build/
+out/
+
+# Local configuration files
+*.properties
+*.prefs
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
